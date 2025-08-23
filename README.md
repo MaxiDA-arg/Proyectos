@@ -32,8 +32,8 @@ Soy Maximiliano, analista de ciberseguridad con experiencia en análisis de dato
 
 ## Contacto
 
-- 📧 Email: maximiliano.seguridad@ejemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/maximiliano-ciberseguridad](https://linkedin.com/in/maximiliano-ciberseguridad)
+- 📧 Email: maxi.altamirano.sp@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/maxi-altamirano](https://www.linkedin.com/in/maxi-altamirano-a11847298/)
 
 ## Certificaciones
 
