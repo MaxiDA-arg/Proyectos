@@ -30,14 +30,14 @@ Soy Maximiliano, analista de ciberseguridad con experiencia en análisis de dato
 | SIEM & Monitoreo  | Wazuh, ELK Stack, Splunk          |
 | ML & Automatización| TPOT, Scikit-learn, Pandas        |
 
-## Contacto
+## 📫 Contacto
 
-- 📧 Email: maxi.altamirano.sp@gmail.com
+- 📧 Email: maxi.altamirano.sp@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/maxi-altamirano](https://www.linkedin.com/in/maxi-altamirano-a11847298/)
 
-## Certificaciones
+## 🎓 Certificaciones
 
-[📁 Ver certificaciones en Drive](https://drive.google.com/drive/folders/1h7iu1JKZ0Umfe9kUA4iELFTgBXzeKF37?usp=sharing)
+- [📁 Ver certificaciones en Drive](https://drive.google.com/drive/folders/1h7iu1JKZ0Umfe9kUA4iELFTgBXzeKF37?usp=sharing)
 
 --
 
