@@ -23,12 +23,13 @@ Soy Maximiliano, analista de ciberseguridad con experiencia en análisis de dato
 
 ## 🧰 Tecnologías y herramientas
 
-| Categoría         | Herramientas                      |
-|-------------------|-----------------------------------|
-| Pentesting        | Nmap, Burp Suite, Metasploit      |
-| Forense Digital   | Volatility, Autopsy, FTK Imager   |
-| SIEM & Monitoreo  | Wazuh, ELK Stack, Splunk          |
-| ML & Automatización| TPOT, Scikit-learn, Pandas        |
+| Categoría            | Herramientas / Entornos                         |
+|----------------------|--------------------------------------------------|
+| Pentesting           | Kali Linux, Nmap, Burp Suite, Metasploit        |
+| Forense Digital      | Windows Forensics, Volatility, Autopsy, FTK Imager |
+| SIEM & Monitoreo     | Wazuh, ELK Stack, Splunk, Ubuntu Server         |
+| ML & Automatización  | TPOT, Scikit-learn, Pandas, Jupyter, Ubuntu     |
+| Sistemas Operativos  | Kali Linux, Windows 10/11, Ubuntu 22.04         |
 
 ## 📫 Contacto
 
