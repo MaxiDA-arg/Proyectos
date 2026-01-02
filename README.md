@@ -31,14 +31,5 @@ Soy Maximiliano, analista de ciberseguridad con experiencia en análisis de dato
 | ML & Automatización  | TPOT, Scikit-learn, Pandas, Jupyter, Ubuntu     |
 | Sistemas Operativos  | Kali Linux, Windows 10/11, Ubuntu 22.04         |
 
-## 📫 Contacto
-
-- 📧 Email: maxi.altamirano.sp@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/maxi-altamirano](https://www.linkedin.com/in/maxi-altamirano-a11847298/)
-
-## 🎓 Certificaciones
-
-- [📁 Ver certificaciones en Drive](https://drive.google.com/drive/folders/1h7iu1JKZ0Umfe9kUA4iELFTgBXzeKF37?usp=sharing)
-
 --
 
